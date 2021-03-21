@@ -19,7 +19,7 @@
 ![Wiring on breadboard](assets/fritzing.png "Wiring on breadboard")
 
 ## The Code
- *follows*
+ look at [pump.ino](pump.ino)
 
 
 ## Description
