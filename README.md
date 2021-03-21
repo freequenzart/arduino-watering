@@ -16,13 +16,12 @@
 * maybe a Powerbank 
 
 ## Wiring (Fritzing)
-[Wiring on breadboard](assets/fritzing.png "Wiring on breadboard")
+![Wiring on breadboard](assets/fritzing.png "Wiring on breadboard")
 
 ## The Code
  *follows*
 
 
 ## Description
-
  *follows*
 
